@@ -1,5 +1,5 @@
 trojan=awssg.xiaochengchengwc.xyz:443, password=abGWnj5Utk, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 AWSSGP
-trojan=aliyunsg.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, obfs=wss, obfs-host=aliyunsg.xiaochengchengwc.xyz, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=true, tag=trojan-wss-05
+trojan=aliyunsg.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, obfs=wss, obfs-host=aliyunsg.xiaochengchengwc.xyz, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 ALSGP
 trojan=azjp.moodd.buzz:48411, password=WwvP7AZuVe, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 AZJP_Test
 trojan=awsjp.xiaochengchengwc.xyz:443, password=yZNoqtDrqT, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 AWSJP
 trojan=azea.moodd.buzz:21916, password=s4dV0CArH1, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇭🇰 AZHK
