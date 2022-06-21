@@ -1,12 +1,12 @@
-trojan://abGWnj5Utk@awssg.xiaochengchengwc.xyz:443#AWSSGP
-trojan://yZNoqtDrqT@awsjp.xiaochengchengwc.xyz:443#AWSJP
-trojan://WwvP7AZuVe@azjp.moodd.buzz:48411#AZJP_Test
-trojan://s4dV0CArH1@azea.moodd.buzz:21916/#AZHK
-trojan://Jt93l9klu7@djarm.xiaochengchengwc.xyz:443#JPARM
-trojan://qWseRCI2rw@djamd1.xiaochengchengwc.xyz:443#JP1
-trojan://qWshRCP2rw@djamd2.xiaochengchengwc.xyz:443#JP2
-trojan://1DouBVTlbq@ccarm1.xiaochengchengwc.xyz:443#KRARM1
-trojan://oJd0YrUFV8@ccarm2.xiaochengchengwc.xyz:443#KRARM2
-trojan://bZJz7qiKZY@ccamd1.xiaochengchengwc.xyz:443#KR1
-trojan://u4agc2TORk@ccamd2.xiaochengchengwc.xyz:443#KR2
-
+trojan=awssg.xiaochengchengwc.xyz:443, password=abGWnj5Utk, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 AWSSGP
+vmess=aliyunsg.xiaochengchengwc.xyz:443, method=aes-128-gcm, password=af41686b-cb85-494a-a554-eeaa1514bca7, obfs=wss, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 ALSGP
+trojan=azjp.moodd.buzz:48411, password=WwvP7AZuVe, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 AZJP_Test
+trojan=awsjp.xiaochengchengwc.xyz:443, password=yZNoqtDrqT, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 AWSJP
+trojan=azea.moodd.buzz:21916, password=s4dV0CArH1, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇭🇰 AZHK
+trojan=djarm.xiaochengchengwc.xyz:443, password=Jt93l9klu7, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 JPARM
+trojan=djamd1.xiaochengchengwc.xyz:443, password=qWseRCI2rw, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP1
+trojan=djamd2.xiaochengchengwc.xyz:443, password=qWshRCP2rw, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP2
+trojan=ccarm1.xiaochengchengwc.xyz:443, password=1DouBVTlbq, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM1
+trojan=ccarm2.xiaochengchengwc.xyz:443, password=oJd0YrUFV8, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM2
+trojan=ccamd1.xiaochengchengwc.xyz:443, password=bZJz7qiKZY, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KR1
+trojan=ccamd2.xiaochengchengwc.xyz:443, password=u4agc2TORk, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KR2
