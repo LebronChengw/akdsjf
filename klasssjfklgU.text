@@ -4,8 +4,8 @@ trojan=azjp.moodd.buzz:48411, password=WwvP7AZuVe, over-tls=true, tls-verificati
 trojan=awsjp.xiaochengchengwc.xyz:443, password=yZNoqtDrqT, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 AWSJP
 trojan=azea.moodd.buzz:21916, password=s4dV0CArH1, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇭🇰 AZHK
 trojan=djarm.xiaochengchengwc.xyz:443, password=Jt93l9klu7, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 JPARM
-trojan=djamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, obfs=wss, obfs-host=ccamd1.xiaochengchengwc.xyz, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 JP1
-trojan=djamd2.xiaochengchengwc.xyz:443, password=qWshRCP2rw, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP2
+trojan=djamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, obfs=wss, obfs-host=djamd1.xiaochengchengwc.xyz, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 JP1
+trojan=djamd2.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, obfs=wss, obfs-host=djamd2.xiaochengchengwc.xyz, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 JP2
 trojan=ccarm1.xiaochengchengwc.xyz:443, password=1DouBVTlbq, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM1
 trojan=ccarm2.xiaochengchengwc.xyz:443, password=oJd0YrUFV8, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM2
 trojan=ccamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, obfs=wss, obfs-host=ccamd1.xiaochengchengwc.xyz, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KR1
