@@ -11,3 +11,4 @@ trojan=ccarm2.xiaochengchengwc.xyz:443, password=oJd0YrUFV8, over-tls=true, tls-
 trojan=ccamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KR1
 trojan=ccamd2.xiaochengchengwc.xyz:443, password=u4agc2TORk, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KR2
 vmess=oraclesg02.moodd.buzz:58568, method=aes-128-gcm, password=81a31054-9355-4365-a8cb-1fc5bafff878, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=SG
+trojan=11.xiaochengchengwc.cf:18388, password=qZJf7qiKZL, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=US
