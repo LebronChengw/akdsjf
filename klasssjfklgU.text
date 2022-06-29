@@ -7,3 +7,4 @@ trojan=krarm1.bingchengzhier.eu.org:443, password=1DouBVTlbq, over-tls=true, tls
 trojan=krarm2.bingchengzhier.eu.org:443, password=oJd0YrUFV8, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM2
 trojan=ccamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KR1
 trojan=kramd2.bingchengzhier.eu.org:443, password=u4agc2TORk, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇰🇷 KR2
+trojan=sgamd.bingchengzhier.eu.org:443, password=WeNuxUwuEU, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇸🇬 SG
