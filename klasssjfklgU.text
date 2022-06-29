@@ -1,5 +1,5 @@
 trojan=awssg.xiaochengchengwc.xyz:443, password=abGWnj5Utk, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 AWSSGP
-trojan=awsjp.xiaochengchengwc.xyz:443, password=yZNoqtDrqT, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 AWSJP
+trojan=awsjp.bingchengzhier.eu.org:443, password=yZNoqtDrqT, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 AWSJP
 trojan=djarm.xiaochengchengwc.xyz:443, password=Jt93l9klu7, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 JPARM
 trojan=jpamd1.bingchengzhier.eu.org:443, password=tkuTkPrqf1, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP1
 trojan=jpamd2.bingchengzhier.eu.org:443, password=CZlg1enrKD, over-tls=true, tls-verification=false, fast-open=false, udp-relay=true, tag=🇯🇵 JP2
