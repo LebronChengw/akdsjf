@@ -3,7 +3,7 @@ trojan=awssg.bingchengzhier.eu.org:54686, password=d6M1w5PvSu, over-tls=true, tl
 trojan=awsjp.bingchengzhier.eu.org:443, password=yZNoqtDrqT, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 AWSJP
 trojan=jparm.bingchengzhier.eu.org:443, password=Jt93l9klu7, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 JPARM
 trojan=jpamd1.bingchengzhier.eu.org:443, password=tkuTkPrqf1, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 JP1
-trojan=jpamd2.bingchengzhier.eu.org:443, password=CZlg1enrKD, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 JP2
+vmess=jpamd2.bingchengzhier.eu.org:443, method=aes-128-gcm, password=0ec3cf1c-1517-441a-b5e2-5977ee4a396b, obfs=wss, obfs-uri=/0ec3cf1c-1517-441a-b5e2-5977ee4a396b, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JP2
 trojan=krarm1.bingchengzhier.eu.org:443, password=1DouBVTlbq, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM1
 trojan=krarm2.bingchengzhier.eu.org:443, password=oJd0YrUFV8, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM2
 trojan=ccamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KR1
