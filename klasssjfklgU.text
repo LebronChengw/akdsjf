@@ -4,8 +4,8 @@ trojan=awsjp.bingchengzhier.eu.org:443, password=yZNoqtDrqT, over-tls=true, tls-
 vmess=jparm.bingchengzhier.eu.org:443, method=aes-128-gcm, password=840ab016-b1e3-4b1f-c294-0a124f61a3d4, obfs=wss, obfs-uri=/840ab016-b1e3-4b1f-c294-0a124f61a3d4, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JPARM
 vmess=jpamd1.bingchengzhier.eu.org:443, method=aes-128-gcm, password=5466439b-6bbf-4e5b-c067-1417fa7ab154, obfs=wss, obfs-uri=/5466439b-6bbf-4e5b-c067-1417fa7ab154, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JP1
 vmess=jpamd2.bingchengzhier.eu.org:443, method=aes-128-gcm, password=0ec3cf1c-1517-441a-b5e2-5977ee4a396b, obfs=wss, obfs-uri=/0ec3cf1c-1517-441a-b5e2-5977ee4a396b, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JP2
-trojan=krarm1.bingchengzhier.eu.org:443, password=1DouBVTlbq, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM1
-trojan=krarm2.bingchengzhier.eu.org:443, password=oJd0YrUFV8, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KRARM2
+vmess=krarm1.bingchengzhier.eu.org:443, method=aes-128-gcm, password=4b54c29b-8a33-4fa4-fa4e-c030acb6df7b, obfs=wss, obfs-uri=/4b54c29b-8a33-4fa4-fa4e-c030acb6df7b, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KRARM1
+vmess=krarm2.bingchengzhier.eu.org:443, method=aes-128-gcm, password=03d62e95-22c4-4f04-bbcb-7d796115dfa1, obfs=wss, obfs-uri=/03d62e95-22c4-4f04-bbcb-7d796115dfa1, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KRARM2
 trojan=ccamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KR1
-trojan=kramd2.bingchengzhier.eu.org:443, password=u4agc2TORk, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KR2
+vmess=kramd2.bingchengzhier.eu.org:443, method=aes-128-gcm, password=ccc9bfa1-3907-4898-fc89-4181108b16dd, obfs=wss, obfs-uri=/ccc9bfa1-3907-4898-fc89-4181108b16dd, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KR2
 trojan=susan.leosvps.space:443, password=NGyhpgytIJ, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 SG
