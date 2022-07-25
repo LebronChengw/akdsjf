@@ -11,4 +11,4 @@ vmess=kramd2.bingchengzhier.eu.org:443, method=none, password=ccc9bfa1-3907-4898
 trojan=susan.leosvps.space:443, password=NGyhpgytIJ, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 SG
 shadowsocks=154.3.35.38:8388, method=aes-128-gcm, password=9ZbLMxCJm2km, fast-open=true, udp-relay=true, tag=HK Game
 shadowsocks=54.169.141.164:8388, method=aes-128-gcm, password=1JSDwabuE4, fast-open=true, udp-relay=true, tag=SG Game
-shadowsocks=54.65.68.245:8388, method=aes-128-gcm, password=jBjFS1PDRY, fast-open=true, udp-relay=true, tag=JP Game
+shadowsocks=15.165.75.91:8388, method=aes-128-gcm, password=I6yg4lPko8, fast-open=true, udp-relay=true, tag=KR Game
