@@ -9,6 +9,4 @@ vmess=krarm2.bingchengzhier.eu.org:443, method=none, password=03d62e95-22c4-4f04
 trojan=ccamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KR1
 vmess=kramd2.bingchengzhier.eu.org:443, method=none, password=ccc9bfa1-3907-4898-fc89-4181108b16dd, obfs=wss, obfs-uri=/ccc9bfa1-3907-4898-fc89-4181108b16dd, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KR2
 trojan=susan.leosvps.space:443, password=NGyhpgytIJ, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 SG
-shadowsocks=154.3.35.38:8388, method=aes-128-gcm, password=9ZbLMxCJm2km, fast-open=true, udp-relay=true, tag=HK Game
 shadowsocks=54.169.141.164:8388, method=aes-128-gcm, password=1JSDwabuE4, fast-open=true, udp-relay=true, tag=SG Game
-trojan=awskr.bingchengzhier.eu.org:443, password=CDS4j7xdoU, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=KR Game
