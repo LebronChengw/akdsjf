@@ -1,4 +1,5 @@
 vmess=dmithk.bingchengzhier.eu.org:443, method=none, password=f9a55a8b-0837-49f5-9f42-76d4a6b2d395, obfs=wss, obfs-uri=/f9a55a8b-0837-49f5-9f42-76d4a6b2d395, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=HK
+shadowsocks=154.3.35.38:8388, method=aes-128-gcm, password=9ZbLMxCJm2km, fast-open=true, udp-relay=true, tag=HKDMIT
 vmess=awssg.bingchengzhier.eu.org:443, method=none, password=bcacaf59-be56-49bc-f6ea-16470d054896, obfs=wss, obfs-uri=/bcacaf59-be56-49bc-f6ea-16470d054896, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 AWSSGP
 trojan=awsjp.bingchengzhier.eu.org:443, password=yZNoqtDrqT, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 AWSJP
 vmess=jparm.bingchengzhier.eu.org:443, method=none, password=840ab016-b1e3-4b1f-c294-0a124f61a3d4, obfs=wss, obfs-uri=/840ab016-b1e3-4b1f-c294-0a124f61a3d4, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JPARM
