@@ -1,1 +1,5 @@
-trojan
+vmess=jpamd1.bingchengzhier.eu.org:443, method=none, password=5466439b-6bbf-4e5b-c067-1417fa7ab154, obfs=wss, obfs-uri=/5466439b-6bbf-4e5b-c067-1417fa7ab154, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JP1
+vmess=jpamd2.bingchengzhier.eu.org:443, method=none, password=0ec3cf1c-1517-441a-b5e2-5977ee4a396b, obfs=wss, obfs-uri=/0ec3cf1c-1517-441a-b5e2-5977ee4a396b, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JP2
+vmess=krarm1.bingchengzhier.eu.org:443, method=none, password=4b54c29b-8a33-4fa4-fa4e-c030acb6df7b, obfs=wss, obfs-uri=/4b54c29b-8a33-4fa4-fa4e-c030acb6df7b, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KRARM1
+vmess=krarm2.bingchengzhier.eu.org:443, method=none, password=03d62e95-22c4-4f04-bbcb-7d796115dfa1, obfs=wss, obfs-uri=/03d62e95-22c4-4f04-bbcb-7d796115dfa1, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KRARM2
+trojan=susan.leosvps.space:443, password=NGyhpgytIJ, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 SG
