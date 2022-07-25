@@ -1,5 +1,4 @@
 vmess=dmithk.bingchengzhier.eu.org:443, method=none, password=f9a55a8b-0837-49f5-9f42-76d4a6b2d395, obfs=wss, obfs-uri=/f9a55a8b-0837-49f5-9f42-76d4a6b2d395, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=HK
-shadowsocks=154.3.35.38:8388, method=aes-128-gcm, password=9ZbLMxCJm2km, fast-open=true, udp-relay=true, tag=HKDMIT
 vmess=awssg.bingchengzhier.eu.org:443, method=none, password=bcacaf59-be56-49bc-f6ea-16470d054896, obfs=wss, obfs-uri=/bcacaf59-be56-49bc-f6ea-16470d054896, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 AWSSGP
 trojan=awsjp.bingchengzhier.eu.org:443, password=yZNoqtDrqT, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 AWSJP
 vmess=jparm.bingchengzhier.eu.org:443, method=none, password=840ab016-b1e3-4b1f-c294-0a124f61a3d4, obfs=wss, obfs-uri=/840ab016-b1e3-4b1f-c294-0a124f61a3d4, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JPARM
@@ -10,3 +9,6 @@ vmess=krarm2.bingchengzhier.eu.org:443, method=none, password=03d62e95-22c4-4f04
 trojan=ccamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 KR1
 vmess=kramd2.bingchengzhier.eu.org:443, method=none, password=ccc9bfa1-3907-4898-fc89-4181108b16dd, obfs=wss, obfs-uri=/ccc9bfa1-3907-4898-fc89-4181108b16dd, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KR2
 trojan=susan.leosvps.space:443, password=NGyhpgytIJ, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 SG
+shadowsocks=154.3.35.38:8388, method=aes-128-gcm, password=9ZbLMxCJm2km, fast-open=true, udp-relay=true, tag=HK Game
+shadowsocks=54.169.141.164:8388, method=aes-128-gcm, password=1JSDwabuE4, fast-open=true, udp-relay=true, tag=SG Game
+shadowsocks=54.65.68.245:8388, method=aes-128-gcm, password=jBjFS1PDRY, fast-open=true, udp-relay=true, tag=JP Game
