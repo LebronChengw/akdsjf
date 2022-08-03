@@ -12,5 +12,4 @@ trojan=ccamd1.xiaochengchengwc.xyz:443, password=qZJf7qiKZL, over-tls=true, tls-
 vmess=kramd2.bingchengzhier.eu.org:443, method=none, password=ccc9bfa1-3907-4898-fc89-4181108b16dd, obfs=wss, obfs-uri=/ccc9bfa1-3907-4898-fc89-4181108b16dd, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KR2
 trojan=susan.leosvps.space:443, password=NGyhpgytIJ, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 SG
 shadowsocks=54.169.141.164:8388, method=aes-128-gcm, password=1JSDwabuE4, fast-open=true, udp-relay=true, tag=Game SG
-shadowsocks=3.35.231.66:8388, method=aes-128-gcm, password=85DE0VtrvA, fast-open=true, udp-relay=true, tag=Game KR
-shadowsocks=13.209.96.62:8388, method=aes-128-gcm, password=NiajCLvteg, fast-open=true, udp-relay=true, tag=Game KR EC2
+shadowsocks=3.38.150.207:8388, method=aes-128-gcm, password=85DE0VtrvA, fast-open=true, udp-relay=true, tag=Game KR
