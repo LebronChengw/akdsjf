@@ -1,4 +1,4 @@
-vmess=dmithk.bingchengzhier.eu.org:443, method=none, password=f9a55a8b-0837-49f5-9f42-76d4a6b2d395, obfs=wss, obfs-uri=/f9a55a8b-0837-49f5-9f42-76d4a6b2d395, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=HK DMIT
+vmess=dmithk.bingchengzhier.eu.org:443, method=none, password=f9a55a8b-0837-49f5-9f42-76d4a6b2d395, obfs=wss, obfs-uri=/f9a55a8b-0837-49f5-9f42-76d4a6b2d395, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=HK
 vmess=awssg.bingchengzhier.eu.org:443, method=none, password=bcacaf59-be56-49bc-f6ea-16470d054896, obfs=wss, obfs-uri=/bcacaf59-be56-49bc-f6ea-16470d054896, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 AWSSGP
 trojan=awskr.bingchengzhier.eu.org:443, password=NGyhpgytIJ, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇰🇷 Korean lightsail
 trojan=azurejp.bingchengzhier.eu.org:443, password=zbyHRQlni3, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇯🇵 Azure JP
