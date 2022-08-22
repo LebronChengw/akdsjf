@@ -11,4 +11,4 @@ vmess=54.230.87.94:443, method=aes-128-gcm, password=3bbb4e89-9288-4012-db62-44f
 vmess=54.230.87.94:443, method=aes-128-gcm, password=ccc9bfa1-3907-4898-fc89-4181108b16dd, obfs=wss, obfs-host=d331392njn2ber.cloudfront.net, obfs-uri=/ccc9bfa1-3907-4898-fc89-4181108b16dd, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KR2
 trojan=susan.leosvps.space:443, password=NGyhpgytIJ, over-tls=true, tls-verification=true, fast-open=false, udp-relay=true, tag=🇸🇬 SG
 shadowsocks=54.169.141.164:8388, method=aes-128-gcm, password=1JSDwabuE4, fast-open=true, udp-relay=true, tag=🇰🇷 Game SG
-shadowsocks=3.38.150.207:8388, method=aes-128-gcm, password=85DE0VtrvA, fast-open=true, udp-relay=true, tag=🇸🇬 Game KR
+shadowsocks=13.125.3.157:8388, method=aes-128-gcm, password=1JSDwabuE4, fast-open=true, udp-relay=true, tag=🇸🇬 Game KR
