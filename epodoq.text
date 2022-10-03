@@ -1,4 +1,3 @@
-vmess=dmithk.bingchengzhier.eu.org:443, method=none, password=2f7cf333-0336-4d04-8683-026905409003, obfs=wss, obfs-uri=/2f7cf333-0336-4d04-8683-026905409003, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=HK
 vmess=awssg.bingchengzhier.eu.org:443, method=aes-128-gcm, password=d80d2278-3b55-42f7-f5e1-011359e5e48b, obfs=wss, obfs-uri=/d80d2278-3b55-42f7-f5e1-011359e5e48b, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇸🇬 AWSSGP
 vmess=jparm.bingchengzhier.eu.org:443, method=none, password=840ab016-b1e3-4b1f-c294-0a124f61a3d4, obfs=wss, obfs-uri=/840ab016-b1e3-4b1f-c294-0a124f61a3d4, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇯🇵 JPARM
 vmess=krarm1.bingchengzhier.eu.org:443, method=none, password=4b54c29b-8a33-4fa4-fa4e-c030acb6df7b, obfs=wss, obfs-uri=/4b54c29b-8a33-4fa4-fa4e-c030acb6df7b, tls-verification=true, fast-open=false, udp-relay=true, aead=true, tag=🇰🇷 KRARM1
